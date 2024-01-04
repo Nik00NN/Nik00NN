@@ -8,7 +8,7 @@ Final year student in Computer Science at the University of Pitesti.
 
 * 🌍  I'm based in Pitesti,Romania
 * ✉️  You can contact me at [birziloiu.mihaialexandru@outlook.com](mailto:birziloiu.mihaialexandru@outlook.com)
-* 🧠  I'm learning everything.
+* 🧠  I'm learning React⚛️.
 
 <a href="https://www.github.com/Nik00NN" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Nik00NN?logo=github&style=for-the-badge&color=ffffff&labelColor=1c1917" /></a>
